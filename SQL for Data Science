@@ -1,0 +1,4 @@
+SELECT ProductName, UnitPrice, SupplierID
+FROM Products
+WHERE UnitPrice >= 75;
+
